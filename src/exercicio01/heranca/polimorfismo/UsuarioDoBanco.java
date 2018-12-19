@@ -16,7 +16,4 @@ public class UsuarioDoBanco {
 		return "Sr/Sra "+ nome + " CPF: " + cpf;
 	}
 
-
-
-
 }
